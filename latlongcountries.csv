@@ -183,7 +183,7 @@ QA,Qatar,25.5,51.25
 RE,Reunion,-21.1,55.6
 RO,Romania,46,25
 RS,Serbia,44,21
-RU,Russian Federation,60,100
+RU,Russia,60,100
 RW,Rwanda,-2,30
 SA,Saudi Arabia,25,45
 SB,Solomon Islands,-8,159
@@ -218,7 +218,7 @@ TR,Turkey,39,35
 TT,Trinidad and Tobago,11,-61
 TV,Tuvalu,-8,178
 TW,Taiwan,23.5,121
-TZ,"Tanzania, United Republic of",-6,35
+TZ,Tanzania,-6,35
 UA,Ukraine,49,32
 UG,Uganda,1,32
 UM,United States Minor Outlying Islands,19.28,166.6
@@ -241,6 +241,6 @@ ZM,Zambia,-15,30
 ZW,Zimbabwe,-20,30
 ,Hawaii,19.8968,-155.5828
 ,Big Island,19.8968,-155.5828
-,Sumatra,-0.5897,101.34
-,California,36.7783,-119.4179
-,Gedeb,5.917,38.24
+,Sumatra,-5,120
+,California,38,-97
+,Gedeb,8,38
